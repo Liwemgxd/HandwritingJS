@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1ef14a3-3184-40cf-915f-6a799407efde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2数组去重.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1数组扁平化.js" beforeDir="false" afterPath="$PROJECT_DIR$/1数组扁平化.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组去重.js" beforeDir="false" afterPath="$PROJECT_DIR$/3类数组转化为数组.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +50,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.1数组扁平化.js">
+  <component name="RunManager" selected="Node.js.2数组去重.js">
     <configuration name="1数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1数组扁平化.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="2数组去重.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2数组去重.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="json.stringify的妙用.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/json.stringify的妙用.js" working-dir="$PROJECT_DIR$">
@@ -40,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.2数组去重.js" />
         <item itemvalue="Node.js.1数组扁平化.js" />
         <item itemvalue="Node.js.json.stringify的妙用.js" />
       </list>
@@ -54,30 +77,41 @@
       <option name="presentableId" value="Default" />
       <updated>1624602242615</updated>
       <workItem from="1624602246031" duration="144000" />
-      <workItem from="1624602414677" duration="7379000" />
+      <workItem from="1624602414677" duration="17922000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1898" height="290" key="GridCell.Tab.0.bottom" timestamp="1624957427342">
+    <state width="1898" height="290" key="GridCell.Tab.0.bottom" timestamp="1625039334305">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624957427342" />
-    <state width="1898" height="290" key="GridCell.Tab.0.center" timestamp="1624957427342">
+    <state width="1898" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334305" />
+    <state width="1898" height="290" key="GridCell.Tab.0.center" timestamp="1625039334304">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624957427342" />
-    <state width="1898" height="290" key="GridCell.Tab.0.left" timestamp="1624957427341">
+    <state width="1898" height="290" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334304" />
+    <state width="1898" height="290" key="GridCell.Tab.0.left" timestamp="1625039334304">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624957427341" />
-    <state width="1898" height="290" key="GridCell.Tab.0.right" timestamp="1624957427342">
+    <state width="1898" height="290" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334304" />
+    <state width="1898" height="290" key="GridCell.Tab.0.right" timestamp="1625039334305">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624957427342" />
+    <state width="1898" height="290" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334305" />
     <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1624957180602">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
