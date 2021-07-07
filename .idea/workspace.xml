@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1ef14a3-3184-40cf-915f-6a799407efde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2数组去重.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5Array.prototype.map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6Array.prototype.foreach.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7Array.prototype.reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8Function.prototype.apply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9Function.prototype.call.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组去重.js" beforeDir="false" afterPath="$PROJECT_DIR$/3类数组转化为数组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array.prototype.filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/4Array.prototype.filter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +54,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.2数组去重.js">
+  <component name="RunManager" selected="Node.js.7Array.prototype.reduce.js">
     <configuration name="1数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1数组扁平化.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="2数组去重.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2数组去重.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="json.stringify的妙用.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/json.stringify的妙用.js" working-dir="$PROJECT_DIR$">
+    <configuration name="4Array.prototype.filter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4Array.prototype.filter.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="6Array.prototype.foreach.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6Array.prototype.foreach.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="7Array.prototype.reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7Array.prototype.reduce.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.7Array.prototype.reduce.js" />
+        <item itemvalue="Node.js.6Array.prototype.foreach.js" />
+        <item itemvalue="Node.js.4Array.prototype.filter.js" />
         <item itemvalue="Node.js.2数组去重.js" />
         <item itemvalue="Node.js.1数组扁平化.js" />
-        <item itemvalue="Node.js.json.stringify的妙用.js" />
       </list>
     </recent_temporary>
   </component>
@@ -77,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624602242615</updated>
       <workItem from="1624602246031" duration="144000" />
-      <workItem from="1624602414677" duration="17922000" />
+      <workItem from="1624602414677" duration="36682000" />
     </task>
     <servers />
   </component>
@@ -96,22 +108,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1898" height="290" key="GridCell.Tab.0.bottom" timestamp="1625039334305">
+    <state width="1898" height="176" key="GridCell.Tab.0.bottom" timestamp="1625211999857">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334305" />
-    <state width="1898" height="290" key="GridCell.Tab.0.center" timestamp="1625039334304">
+    <state width="1898" height="176" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625211999857" />
+    <state width="1898" height="176" key="GridCell.Tab.0.center" timestamp="1625211999857">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334304" />
-    <state width="1898" height="290" key="GridCell.Tab.0.left" timestamp="1625039334304">
+    <state width="1898" height="176" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625211999857" />
+    <state width="1898" height="176" key="GridCell.Tab.0.left" timestamp="1625211999856">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334304" />
-    <state width="1898" height="290" key="GridCell.Tab.0.right" timestamp="1625039334305">
+    <state width="1898" height="176" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625211999856" />
+    <state width="1898" height="176" key="GridCell.Tab.0.right" timestamp="1625211999857">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="290" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625039334305" />
+    <state width="1898" height="176" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625211999857" />
     <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1624957180602">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
